@@ -1,0 +1,4 @@
+total 3 ways of creating enviornment::
+
+1: using python command
+

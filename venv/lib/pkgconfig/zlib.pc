@@ -1,0 +1,13 @@
+prefix=/Users/priyanshusekharpanda/Developer/cris naik ml/Python(PI)/venv
+exec_prefix=/Users/priyanshusekharpanda/Developer/cris naik ml/Python(PI)/venv
+libdir=/Users/priyanshusekharpanda/Developer/cris naik ml/Python(PI)/venv/lib
+sharedlibdir=/Users/priyanshusekharpanda/Developer/cris naik ml/Python(PI)/venv/lib
+includedir=/Users/priyanshusekharpanda/Developer/cris naik ml/Python(PI)/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
